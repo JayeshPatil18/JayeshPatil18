@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
 <h3 align="center">A Mobile App Developer from Pune</h3>
 
-- 🔭 I’m currently working on **Confession App**
+- 🔭 I’m currently working on **Confession App for GHRCEM College**
 
 - 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **GSOC 2024**
 
 - 👨‍💻 Known me more at [thejayeshpatil.netlify.app](https://thejayeshpatil.netlify.app)
 
