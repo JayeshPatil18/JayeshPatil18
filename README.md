@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **GSOC 2024**
-
 - 👨‍💻 All of my projects are available at [thejayeshpatil.netlify.app](thejayeshpatil.netlify.app)
 
 - 💬 Ask me about **Android, Flutter**
