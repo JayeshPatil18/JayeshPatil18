@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Confession App for GHRCEM College**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 Known me more at [thejayeshpatil.netlify.app](https://thejayeshpatil.netlify.app)
 
