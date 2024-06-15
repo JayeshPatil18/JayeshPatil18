@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 Known me more at [thejayeshpatil.netlify.app](https://thejayeshpatil.vercel.app)
+- 👨‍💻 Known me more at [jayeshpatil.vercel.app](https://jayeshpatil.vercel.app)
 
 - 💬 Ask me about **Android, Flutter**
 
