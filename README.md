@@ -16,7 +16,7 @@
         👨‍💻 Know me more at <a href="https://jayeshpatil.vercel.app">jayeshpatil.vercel.app</a><br>
         💬 Ask me about <strong>Android, Flutter</strong><br>
         📫 How to reach me <strong>jayeshpatilofficial18@gmail.com</strong><br>
-        ⚡ Fun fact <strong>I commit to Git Repo, Not girls</strong>
+        ⚡ Favourite Quote <strong>Stay Hungry, Stay Foolish</strong>
     </p>
 </div>
 
