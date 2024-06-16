@@ -1,8 +1,8 @@
 <div style="text-align: left;">
     <img src="https://media.licdn.com/dms/image/D4D16AQGD4Z1IOHwo-g/profile-displaybackgroundimage-shrink_350_1400/0/1714830076035?e=1724284800&v=beta&t=OU0-wZ_tgDttkSx4fS9iunol_fxJ31o2LGL_RmSiuPw" alt="Banner Image" style="width: 100%; max-width: 1000px;">
-    <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
-    <h3 align="center">A Mobile App Developer from Pune</h3>
-    <p align="center">  
+    <h1 align="left">Hi 👋, I'm Jayesh Patil</h1>
+    <h3 align="left">A Mobile App Developer from Pune</h3>
+    <p align="left">  
         🌱 I’m currently learning <strong>AI/ML</strong><br>
         👨‍💻 Known me more at <a href="https://jayeshpatil.vercel.app">jayeshpatil.vercel.app</a><br>
         💬 Ask me about <strong>Android, Flutter</strong><br>
