@@ -1,8 +1,17 @@
 <div style="text-align: left;">
     <img src="https://media.licdn.com/dms/image/D4D16AQGD4Z1IOHwo-g/profile-displaybackgroundimage-shrink_350_1400/0/1714830076035?e=1724284800&v=beta&t=OU0-wZ_tgDttkSx4fS9iunol_fxJ31o2LGL_RmSiuPw" alt="Banner Image" style="width: 100%; max-width: 1000px;">
     <h1>Hi 👋, I'm Jayesh Patil</h1>
-    <h3>A Mobile App Developer from Pune</h3>
+    <a href="https://play.google.com/store/apps/developer?id=Jayesh+Patil">
+       <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" style="margin-left: 10px;">
+    </a>
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin-left: 10px;">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="margin-left: 10px;">
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-left: 10px;">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-left: 10px;">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="margin-left: 10px;">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="margin-left: 10px;">
     <p>
+        </br>
         🌱 I’m currently learning <strong>AI/ML</strong><br>
         👨‍💻 Know me more at <a href="https://jayeshpatil.vercel.app">jayeshpatil.vercel.app</a><br>
         💬 Ask me about <strong>Android, Flutter</strong><br>
