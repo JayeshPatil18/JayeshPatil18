@@ -1,5 +1,5 @@
 <div style="text-align: left;">
-    <img src="https://media.licdn.com/dms/image/D4D16AQGD4Z1IOHwo-g/profile-displaybackgroundimage-shrink_350_1400/0/1714830076035?e=1724284800&v=beta&t=OU0-wZ_tgDttkSx4fS9iunol_fxJ31o2LGL_RmSiuPw" alt="Banner Image" style="width: 100%; max-width: 1000px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGD4Z1IOHwo-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714830076035?e=1735776000&v=beta&t=TZ1sgfy-y_Z0nPEMK9Fk0EDASrcqU8z-JtHC5xvsPGA" alt="Banner Image" style="width: 100%; max-width: 1000px;">
     <h1>Hi 👋, I'm Jayesh Patil</h1>
     <a href="https://play.google.com/store/apps/developer?id=Jayesh+Patil">
        <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" style="margin-left: 10px;">
