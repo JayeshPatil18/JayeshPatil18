@@ -1,9 +1,9 @@
 <div style="text-align: left;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGD4Z1IOHwo-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714830076035?e=1735776000&v=beta&t=TZ1sgfy-y_Z0nPEMK9Fk0EDASrcqU8z-JtHC5xvsPGA" alt="Banner Image" style="width: 100%; max-width: 1000px;">
+    <img src="https://scontent.fnag4-2.fna.fbcdn.net/v/t39.30808-6/226396634_2642205846080345_3924840265644050492_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=2285d6&_nc_ohc=DJRyIdELLyMQ7kNvwEudVGm&_nc_oc=AdmOFHpvBEqfMb4UFEVzGUjfTWH0Mqg5gRW6SfTJrhS3YUpuYZa5KHJGP_e7rmO2TYUV2yc9egnOYy2SEJZeflr5&_nc_zt=23&_nc_ht=scontent.fnag4-2.fna&_nc_gid=Jn6Vx9EC-39usDA372SUDg&oh=00_AfIiZBOYi0EtAYOjsXQdiTiY6-rdT2TLwvO0VoG5n4M6DA&oe=68322489" alt="Banner Image" style="width: 100%; max-width: 1000px;">
     <h1>Hi 👋, I'm Jayesh Patil</h1>
-    <a href="https://play.google.com/store/apps/developer?id=Jayesh+Patil">
+<!--     <a href="https://play.google.com/store/apps/developer?id=Jayesh+Patil">
        <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" style="margin-left: 10px;">
-    </a>
+    </a> -->
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin-left: 10px;">
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="margin-left: 10px;">
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-left: 10px;">
