@@ -1,6 +1,10 @@
 <div style="text-align: left;">
     <img src="https://scontent.fnag4-2.fna.fbcdn.net/v/t39.30808-6/226396634_2642205846080345_3924840265644050492_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=2285d6&_nc_ohc=DJRyIdELLyMQ7kNvwEudVGm&_nc_oc=AdmOFHpvBEqfMb4UFEVzGUjfTWH0Mqg5gRW6SfTJrhS3YUpuYZa5KHJGP_e7rmO2TYUV2yc9egnOYy2SEJZeflr5&_nc_zt=23&_nc_ht=scontent.fnag4-2.fna&_nc_gid=Jn6Vx9EC-39usDA372SUDg&oh=00_AfIiZBOYi0EtAYOjsXQdiTiY6-rdT2TLwvO0VoG5n4M6DA&oe=68322489" alt="Banner Image" style="width: 100%; max-width: 1000px;">
     <h1>Hi 👋, I'm Jayesh Patil</h1>
+    <p>
+      📁 Check out my <a href="https://github.com/JayeshPatil18/JayeshPatil18/blob/c7cfeaf0b79694bdd32750d6a784a0329136bab7/Project%20Portfolio.pdf" target="_blank" rel="noopener noreferrer" style="color:#02569B; font-weight:bold; text-decoration: underline;">
+      Project Portfolio PDF</a>
+    </p>
 <!--     <a href="https://play.google.com/store/apps/developer?id=Jayesh+Patil">
        <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" style="margin-left: 10px;">
     </a> -->
